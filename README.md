@@ -1,7 +1,12 @@
 # Aktivasyon Fonksiyonları
 Yapay sinir aglari aktivasyon fonksiyonlari
 
-## Gereksinimler
+## İndirme
+```
+git clone https://github.com/bkayranci/ann-activation-function.git
+```
+
+## Gereksinimleri Kurma
 ```
 pip install -r requirements.txt
 ```
